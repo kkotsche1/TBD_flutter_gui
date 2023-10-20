@@ -1,4 +1,4 @@
-# TBD - To Be Diagnosed
+# TBD - To Be Diagnosed Frontend
 
 <p align="center">
  <img src="https://github.com/ameliefroessl/TBD/assets/9149226/a36745ff-ce4f-4bdf-a2d2-13f965694ae2" width="200">
