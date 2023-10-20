@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342281418591",
+    "project_id": "merantix-genai23ber-9514",
+    "storage_bucket": "merantix-genai23ber-9514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342281418591:android:b3c05c4219bb5be7d568ea",
+        "android_client_info": {
+          "package_name": "com.example.merantix_hackathon_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBtix9ycFPWIZcHchwbKzEmTStOT8ozE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
