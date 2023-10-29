@@ -13,8 +13,3 @@ here a small demo of what the app can do: [link](https://drive.google.com/file/d
 ## Tech stack: ##
 
 The application was powered by [firebase](https://firebase.google.com), with a [flutter](https://flutter.dev) front end and google cloud functions in the backend. 
-
-The google cloud functions used in the backend are in the `/gcp_functions` folder.There are three main backend endpoints. 
-1. `ocr` - image to text. We used the [google cloud's vision ocr](https://cloud.google.com/vision/docs/ocr) library for this.
-2. `gen_ai` - Generating the simplified prognosis. We used google's [Palm 2 for text](https://forums.macrumors.com/threads/charging-a-macbook-pro-16-m1-max-with-a-67-watt-charger.2327512/) with some additional prompt engineering.
-3. `translation` - translating text. We used [google cloud's text translation](https://cloud.google.com/translate/docs/basic/translating-text) for this.
